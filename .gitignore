@@ -1,0 +1,12 @@
+# General
+/.idea/*
+.DS_Store
+*.orig
+.vscode
+.env
+.venv
+__pycache__
+*.egg-info
+
+# Ignore log files if any
+*.log
